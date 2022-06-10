@@ -1,7 +1,6 @@
 #  :computer: APİ - ORİGİN Full Capture Config :computer:
 
 # İçindekiler
-### Config Loli Code
 ### .svb nasıl kullanılır
 ### lolicode nasıl kullanılır
 ----------
