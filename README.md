@@ -3,7 +3,7 @@
 # İçindekiler
 ### .svb nasıl kullanılır
 ### lolicode nasıl kullanılır
-----------
+-----------
 
 
 # .SVB Nasıl Kullanılır
