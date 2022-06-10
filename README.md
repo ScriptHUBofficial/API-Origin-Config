@@ -27,4 +27,4 @@
 <img src="https://imgyukle.com/f/2022/06/10/VSAz8t.png" alt="image" width="702" height="679" data-is360="0" data-load="full" class="cursor-zoom-in" style="width: 432px; height: 417.846px; display: block;">
 tekrardan switch to loliscripte tıklayarak kaydettikten sonra configi kullana bilirsiniz
 
-# Yazı @! AstatiN
+# Yazı @AstatiN
